@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+chromadb
+pypdf
+langchain-text-splitters
+openai
+python-dotenv
+dashscope
+requests
